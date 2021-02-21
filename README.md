@@ -1,2 +1,2 @@
-# Number Guessing
-guesses the number in some tries after comunicating to the player
+# python
+All my projects in python since 2020 February
